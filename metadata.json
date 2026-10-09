@@ -1,0 +1,6 @@
+{
+  "name": "SBA Kitchen",
+  "description": "SBA Kitchen: 170+ authentic recipes, pantry tracking, voice AI chef, cooking mode, and meal planning with multilingual support (Urdu, Hindi, English).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

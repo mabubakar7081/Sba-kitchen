@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#e11d48"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="110" fill="url(#grad)"/>
+  <g fill="none" stroke="#ffffff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round" transform="translate(106, 106) scale(0.58)">
+    <!-- Chef Hat SVG -->
+    <path d="M 60 400 L 460 400 L 440 460 L 80 460 Z" fill="#ffffff" fill-opacity="0.2"/>
+    <path d="M 120 380 L 120 280 C 70 280 40 240 50 180 C 60 120 120 100 170 140 C 190 70 290 60 330 120 C 370 70 450 100 460 170 C 470 230 430 280 390 280 L 390 380 Z"/>
+    <line x1="200" y1="280" x2="200" y2="380"/>
+    <line x1="260" y1="260" x2="260" y2="380"/>
+    <line x1="320" y1="280" x2="320" y2="380"/>
+  </g>
+</svg>
